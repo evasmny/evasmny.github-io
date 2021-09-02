@@ -1,2 +1,2 @@
-# evasmny.github-io
+# evasmny.github.io
 Demo page
